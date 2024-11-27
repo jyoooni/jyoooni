@@ -2,13 +2,13 @@
 <h1 align="center">📚 designer jyoooni 📚</h1>
 
 <h3 align="center">🛠️ Tools 🛠️</h3>
-<div ailgn="center">
+<div align="center">
    <img src="https://img.shields.io/badge/figma-20212B.svg?style=for-the-badge&logo=figma&logoColor=FEFFF9" />&nbsp
    <img src="https://img.shields.io/badge/adobe%20photoshop-002543.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=5BAFEC" />&nbsp
    <img src="https://img.shields.io/badge/adobe%20illustrator-361603.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=FE9C47" />&nbsp
    <img src="https://img.shields.io/badge/adobe%20indesign-520323.svg?style=for-the-badge&logo=adobe%20indesign&logoColor=DD6882" />&nbsp
 </div>
-<div ailgn="center">
+<div align="center">
    <img src="https://img.shields.io/badge/adobe%20premiere%20pro-250635.svg?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=E9BCEF" />&nbsp 
    <img src="https://img.shields.io/badge/adobe%20lightroom-002543.svg?style=for-the-badge&logo=adobe%20lightroom&logoColor=5BAFEC" />&nbsp
 </div>
