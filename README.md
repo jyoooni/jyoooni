@@ -17,7 +17,6 @@
 </div>
 
 <br>
-<br>
 
 <h3 align="center">📚 studying 📚</h3>
 <div align="center">
