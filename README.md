@@ -29,8 +29,11 @@
 
 <h3 align="center">📩 contact 📩</h3>
 <div align="center">
-   <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />&nbsp
+   <a href="mailto:jyo.ouni34@gmail.com">
+    <img src="https://img.shields.io/badge/jyo.ouni34@gmail.com-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />&nbsp
+  </a>
 </div>
+
 
 <!--
 **jyoooni/jyoooni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
