@@ -12,10 +12,11 @@
    <img src="https://img.shields.io/badge/adobe%20premiere%20pro-250635.svg?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=E9BCEF" />&nbsp 
    <img src="https://img.shields.io/badge/adobe%20lightroom-002543.svg?style=for-the-badge&logo=adobe%20lightroom&logoColor=5BAFEC" />&nbsp
    <br>
-   <img src="https://img.shields.io/badge/notion-FFFFFF.svg?style=for-the-badge&logo=notion&logoColor=000000" />&nbsp
-   <img src="https://img.shields.io/badge/VSCode-FFFFFF.svg?style=for-the-badge&logo=visual-studio-code&logoColor=3EA5FF" />&nbsp
+   <img src="https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=FFFFFF" />&nbsp
+   <img src="https://img.shields.io/badge/VSCode-000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=3EA5FF" />&nbsp
 </div>
 
+<br>
 <br>
 
 <h3 align="center">📚 studying 📚</h3>
