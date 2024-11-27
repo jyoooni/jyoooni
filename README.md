@@ -1,5 +1,5 @@
 <!-- 타이틀 : 나중에 이미지로 바꿔보자 -->
-<h1 align="center">💡 designer jyoooni 💡</h1>
+<h1 align="center">💡 designer yunhee 💡</h1>
 
 <!-- 본문 -->
 <h3 align="center">🛠️ Tools 🛠️</h3>
