@@ -9,7 +9,7 @@
    <img src="https://img.shields.io/badge/adobe%20indesign-520323.svg?style=for-the-badge&logo=adobe%20indesign&logoColor=DD6882" />&nbsp
 </div>
 <div ailgn="center">
-   <img src="https://img.shields.io/badge/adobe%20premierepro-250635.svg?style=for-the-badge&logo=adobe%20premierepro&logoColor=E9BCEF" />&nbsp 
+   <img src="https://img.shields.io/badge/adobe%20premiere%20pro-250635.svg?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=E9BCEF" />&nbsp 
    <img src="https://img.shields.io/badge/adobe%20lightroom-002543.svg?style=for-the-badge&logo=adobe%20lightroom&logoColor=5BAFEC" />&nbsp
 </div>
 
