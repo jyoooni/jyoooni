@@ -25,6 +25,13 @@
    <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=FFFFFF" />&nbsp
 </div>
 
+<br>
+
+<h3 align="center">📩 contact 📩</h3>
+<div align="center">
+   <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />&nbsp
+</div>
+
 <!--
 **jyoooni/jyoooni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
