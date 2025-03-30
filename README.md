@@ -12,14 +12,15 @@
    <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />&nbsp 
    <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" />&nbsp
    <br>
-   <img src="https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=FFFFFF" />&nbsp
-   <img src="https://img.shields.io/badge/VSCode-000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=3EA5FF" />&nbsp
+   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
+   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp
 </div>
 
 <br>
 
 <h3 align="center">📚 studying 📚</h3>
 <div align="center">
+   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />&nbsp
    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp
@@ -33,6 +34,7 @@
    <a href="mailto:jyo.ouni34@gmail.com">
     <img src="https://img.shields.io/badge/jyo.ouni34@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
   </a>
+   <img src="https://img.shields.io/badge/www.linkedin.com/in/jyoouni-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white />&nbsp
 </div>
 
 
