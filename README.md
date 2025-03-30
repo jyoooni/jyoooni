@@ -34,7 +34,7 @@
    <a href="mailto:jyo.ouni34@gmail.com">
     <img src="https://img.shields.io/badge/jyo.ouni34@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
   </a>
-   <a href="www.linkedin.com/in/jyoouni">
+   <a href="https://www.linkedin.com/in/yunhee-jung-8b7bb1334">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />&nbsp
   </a>
 </div>
