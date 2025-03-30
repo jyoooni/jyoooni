@@ -4,13 +4,13 @@
 <!-- 본문 -->
 <h3 align="center">🛠️ Tools 🛠️</h3>
 <div align="center">
-   <img src="https://img.shields.io/badge/figma-20212B.svg?style=for-the-badge&logo=figma&logoColor=FEFFF9" />&nbsp
-   <img src="https://img.shields.io/badge/adobe%20photoshop-002543.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=5BAFEC" />&nbsp
-   <img src="https://img.shields.io/badge/adobe%20illustrator-361603.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=FE9C47" />&nbsp
+   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
+   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />&nbsp
+   <img src="tps://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />&nbsp
    <br>
-   <img src="https://img.shields.io/badge/adobe%20indesign-520323.svg?style=for-the-badge&logo=adobe%20indesign&logoColor=DD6882" />&nbsp
-   <img src="https://img.shields.io/badge/adobe%20premiere%20pro-250635.svg?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=E9BCEF" />&nbsp 
-   <img src="https://img.shields.io/badge/adobe%20lightroom-002543.svg?style=for-the-badge&logo=adobe%20lightroom&logoColor=5BAFEC" />&nbsp
+   <img src="https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white" />&nbsp
+   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />&nbsp 
+   <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" />&nbsp
    <br>
    <img src="https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=FFFFFF" />&nbsp
    <img src="https://img.shields.io/badge/VSCode-000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=3EA5FF" />&nbsp
@@ -20,10 +20,10 @@
 
 <h3 align="center">📚 studying 📚</h3>
 <div align="center">
-   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=FFFFFF" />&nbsp
-   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=FFFFFF" />&nbsp
-   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=FFFFFF" />&nbsp
-   <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=FFFFFF" />&nbsp
+   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp
+   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
 </div>
 
 <br>
@@ -31,7 +31,7 @@
 <h3 align="center">📩 contact 📩</h3>
 <div align="center">
    <a href="mailto:jyo.ouni34@gmail.com">
-    <img src="https://img.shields.io/badge/jyo.ouni34@gmail.com-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />&nbsp
+    <img src="https://img.shields.io/badge/jyo.ouni34@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
   </a>
 </div>
 
